@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    ? ''
+    : email: ''
+      logged_in: false
+      name: ''
+      password: ''
+    TeamRandon:
+      email: tirusewcheru@gmail.com
+      logged_in: false
+      name: TeamRandon
+      password: Azubi
