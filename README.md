@@ -21,6 +21,57 @@ Python
   git clone https://github.com/EstherAfari/LP-4-Machine-Learning.git
 ```
 
+Change into the cloned repository:
+```sh
+  cd LP-4-Machine-Learning
+```
+Create a virtual environment
+
+```sh
+
+python -m venv env
+
+```
+
+Activate the virtual environment
+
+```sh
+    virtual_env/Scripts/activate
+```
+
+
+### Installations
+
+Here, you need to recursively install the packages in the `requirements.txt` file using the command below 
+
+```sh
+   pip install -r requirements.txt
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+
+```sh
+    streamlit run 1_🏠_Home.py
+
+```
+
+Login Credentials
+
+```sh
+    Login: Esther Afari
+    Password: Azubi
+```
+
+## Links
+```sh
+    Web App link : https://vodafone-customer-churn-prediction-app.onrender.com
+    Medium :
+```
+
+
 
 
 
