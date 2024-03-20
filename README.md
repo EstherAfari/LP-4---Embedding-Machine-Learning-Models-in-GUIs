@@ -15,11 +15,11 @@ Streamlit
 Python
 
 ## Setup
-'''sh 
-cd the folder
-https://github.com/EstherAfari/LP-4-Machine-Learning.git
 
-'''
+```sh
+  cd the folder
+  git clone https://github.com/EstherAfari/LP-4-Machine-Learning.git
+```
 
 
 
