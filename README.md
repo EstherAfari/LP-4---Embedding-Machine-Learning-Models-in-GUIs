@@ -15,9 +15,10 @@ Streamlit
 Python
 
 ## Setup
-''' sh 
+'''sh 
 cd the folder
 https://github.com/EstherAfari/LP-4-Machine-Learning.git
+
 '''
 
 
